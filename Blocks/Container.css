@@ -1,0 +1,22 @@
+#list_parameters{
+	width: 350px;
+}
+
+.list {
+
+	list-style: upper-roman;
+	
+
+}
+.low-rom{
+	list-style:  lower-roman;
+
+}
+.container{
+	background-color: black;
+ 	color: green;
+	width: 400px;
+	max-height: 4;
+	overflow: auto;
+}
+
